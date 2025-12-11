@@ -1,7 +1,7 @@
 This file is for reflecting on the use of copilot for learning python.
 Copilot was useful in breaking down the coding process for each promt that I submitted. It provided explenations for each secction of the code.
 For the promt involving classes, objects and metods, it broke it down into three sections explaining the purpose of each.
- e.g 
+ *e.g 
  class Greeter: 
  *creates the bleuprint
  def_init_(self, name="world"): 
@@ -13,3 +13,8 @@ For the promt involving classes, objects and metods, it broke it down into three
  * self means "use my own data"
  def set_name(self, new_name):
  * A method to change tje object's data later.
+
+
+ I had to edit some of the code that copilot gave in order for it to run but it was only a few words here and there that I have to correct. Overall the code that copilot provided was explained step by step and ran successfully. 
+
+ When using copilot for the pseudocode exercise, it offereed a breakdown of the process and once again broke the code down to show the steps involved, before providing me with the full version. The code ran successfully on the first attempt.
