@@ -1,1 +1,2 @@
 # ai-for-the-arts
+The purpose of this repository is the learn and understand code with the assistance of microsoft copilot. The file will include reflections of the overall process including what worked well vs what did not.
